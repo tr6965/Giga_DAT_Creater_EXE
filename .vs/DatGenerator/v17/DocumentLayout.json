@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tr6965\\ZEBRA\\Tasks\\GigaDtatCreator\\DatGeneratorExe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D39866AD-640B-4733-B788-781E622E046D}|DatGenerator\\DatGenerator.csproj|C:\\Users\\tr6965\\ZEBRA\\Tasks\\GigaDtatCreator\\DatGeneratorExe\\datgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39866AD-640B-4733-B788-781E622E046D}|DatGenerator\\DatGenerator.csproj|solutionrelative:datgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DatGenerator||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39866AD-640B-4733-B788-781E622E046D}|DatGenerator\\DatGenerator.csproj|c:\\users\\tr6965\\zebra\\tasks\\gigadtatcreator\\datgeneratorexe\\datgenerator\\datgenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39866AD-640B-4733-B788-781E622E046D}|DatGenerator\\DatGenerator.csproj|solutionrelative:datgenerator\\datgenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39866AD-640B-4733-B788-781E622E046D}|DatGenerator\\DatGenerator.csproj|c:\\users\\tr6965\\zebra\\tasks\\gigadtatcreator\\datgeneratorexe\\datgenerator\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatGenService.cs",
+              "DocumentMoniker": "C:\\Users\\tr6965\\ZEBRA\\Tasks\\GigaDtatCreator\\DatGeneratorExe\\DatGenerator\\DatGenService.cs",
+              "RelativeDocumentMoniker": "DatGenerator\\DatGenService.cs",
+              "ToolTip": "C:\\Users\\tr6965\\ZEBRA\\Tasks\\GigaDtatCreator\\DatGeneratorExe\\DatGenerator\\DatGenService.cs",
+              "RelativeToolTip": "DatGenerator\\DatGenService.cs",
+              "ViewState": "AQIAAKoDAAAAAAAAAAAowOgDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:38:42.14Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatGenerator",
+              "DocumentMoniker": "C:\\Users\\tr6965\\ZEBRA\\Tasks\\GigaDtatCreator\\DatGeneratorExe\\DatGenerator\\DatGenerator.csproj",
+              "RelativeDocumentMoniker": "DatGenerator\\DatGenerator.csproj",
+              "ToolTip": "C:\\Users\\tr6965\\ZEBRA\\Tasks\\GigaDtatCreator\\DatGeneratorExe\\DatGenerator\\DatGenerator.csproj",
+              "RelativeToolTip": "DatGenerator\\DatGenerator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T08:11:13.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tr6965\\ZEBRA\\Tasks\\GigaDtatCreator\\DatGeneratorExe\\DatGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "DatGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\tr6965\\ZEBRA\\Tasks\\GigaDtatCreator\\DatGeneratorExe\\DatGenerator\\Program.cs",
+              "RelativeToolTip": "DatGenerator\\Program.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAlwPQAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:35:37.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
